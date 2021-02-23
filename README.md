@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on nothing at the moment, sorry.
 - 🤔 I’m looking for help with the placeholder site. The background image randomly stopped working and won't come back, even if I use versions of the code that previously worked.
 - 💬 Ask me about propulsion systems!
-- 📫 How to reach me: @TheyAreJune on Twitter! TheyAreJune@gmail.com
-- 😄 Pronouns: Phi/Per/Perself (Said similarly to She/Her/Herself), They/Them
+- 📫 How to reach me:
+- 😄 Pronouns: 
 - ⚡ Fun fact: Ummmm I'll get back to you on that.
 
